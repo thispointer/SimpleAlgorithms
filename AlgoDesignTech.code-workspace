@@ -1,0 +1,47 @@
+{
+	"folders": [
+		{
+			"path": "ALGS200x"
+		},
+		{
+			"path": "SumOfTwoDigits"
+		},
+		{
+			"path": "MaxPairwiseProduct"
+		},
+		{
+			"path": "Fibonacci"
+		},
+		{
+			"path": "FibLastDigit"
+		},
+		{
+			"path": "GCD"
+		},
+		{
+			"path": "LCM"
+		},
+		{
+			"path": "FibModulus"
+		},
+		{
+			"path": "FibSumLastDigit"
+		},
+		{
+			"path": "FibPartSumLastDigit"
+		},
+		{
+			"path": "FibonacciFast"
+		},
+		{
+			"path": "CoinChange"
+		},
+		{
+			"path": "FractionalKnapsack"
+		},
+		{
+			"path": "MaxAddRevenue"
+		}
+	],
+	"settings": {}
+}

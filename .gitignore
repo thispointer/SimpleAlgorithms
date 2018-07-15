@@ -1,0 +1,5 @@
+# only source code is subject to version control
+*
+!*.cpp
+!Makefile
+!*.code-workspace
